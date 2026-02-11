@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+deepface
+speechrecognition
+pandas
+numpy
+plotly
+fpdf2
+sqlalchemy
+ollama
